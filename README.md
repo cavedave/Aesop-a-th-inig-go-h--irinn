@@ -5,7 +5,7 @@ A public domain version of Aesop's Fables in Irish.
 Take Peadar Ua Laoghaire translation of Aesiop's Fables to Irish and convert it to modern orthography. Modern spelling. Modern word usage where needed. Create Audio Files of it. And have similar English translation for it as well. 
 
 ## Links
-[Wikisource of the book] (https://wikisource.org/wiki/Aesop_a_th%C3%A1inig_go_h-%C3%89irinn/An_Frog_agus_an_Mada_Rua)
+[Wikisource of the book](https://wikisource.org/wiki/Aesop_a_th%C3%A1inig_go_h-%C3%89irinn/An_Frog_agus_an_Mada_Rua)
 
 [Audio for 8 stories](https://corkirish.wordpress.com/audio-files-on-this-site/)
 [Youtube of more stories](https://www.youtube.com/watch?v=zyi70tG68UM&t=1s) by John Farrell
