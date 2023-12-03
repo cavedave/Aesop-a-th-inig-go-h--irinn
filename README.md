@@ -1,4 +1,4 @@
-# Aesop-a-th-inig-go-h--irinn
+# Aesop a tháinig go h-Éirinn
 A public domain version of Aesop's Fables in Irish.  
 
 ## Aim
@@ -108,9 +108,9 @@ An Mada Ruadh Maol
 Ciall Cheanaig
 --- | --- | --- | --- |--- |--- |--- |--- 
 An Príochán agus an Crúsca
---- | --- | --- | --- |--- |--- |--- |--- 
+
 An Sliabh i dTeinneas
---- | --- | --- | --- |--- |--- |--- |--- 
+
 An Dórnán Slat
---- | --- | --- | --- |--- |--- |--- |--- 
+
 An tSeilg
