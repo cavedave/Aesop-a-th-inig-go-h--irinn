@@ -15,98 +15,52 @@ Take Peadar Ua Laoghaire translation of Aesiop's Fables to Irish and convert it 
 Story | Have Text | Orthography | Spelling | Words | Audio | English | Words checked 
 --- | --- | --- | --- |--- |--- |--- |--- 
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 
-An Frog agus an Mada Rua
---- | --- | --- | --- |--- |--- |--- |--- 
-An Coileach agus an Mada Rua
---- | --- | --- | --- |--- |--- |--- |--- 
+An Frog agus an Mada Rua 
+An Coileach agus an Mada Rua 
 An Giorfhiadh agus an Gealún
---- | --- | --- | --- |--- |--- |--- |--- 
 An Ḟuiseóg agus a h-Ál
---- | --- | --- | --- |--- |--- |--- |--- 
 An t-Asal agus an Bia
---- | --- | --- | --- |--- |--- |--- |--- 
-Na Machtírí agus na Caoíre
---- | --- | --- | --- |--- |--- |--- |--- 
+Na Machtírí agus na Caoíre 
 An León agus na Cheithre Tairbh
---- | --- | --- | --- |--- |--- |--- |--- 
 Na Frogana a’ Lorg Rígh
---- | --- | --- | --- |--- |--- |--- |--- 
 An Mac agus a Mháthair
---- | --- | --- | --- |--- |--- |--- |--- 
 An Mada Ruadh sa Tobar
---- | --- | --- | --- |--- |--- |--- |--- 
 An t-Aṫair Níṁe agus an Portán
---- | --- | --- | --- |--- |--- |--- |--- 
 An Sealgaire agus an Colúr
---- | --- | --- | --- |--- |--- |--- |--- 
 An Fear agus a Chlann Mhac
---- | --- | --- | --- |--- |--- |--- |--- 
 An t-Aodhre agus an Fharge
---- | --- | --- | --- |--- |--- |--- |--- 
 An Machtíre i gCroicean na Caorach
---- | --- | --- | --- |--- |--- |--- |--- 
 An Machtíre agus an t-Uan agus an Gabhar
---- | --- | --- | --- |--- |--- |--- |--- 
 An Luch Tuatha agus Luch an Bhaile Mhóir
---- | --- | --- | --- |--- |--- |--- |--- 
 An Fhiolar agus an Mada Ruadh
---- | --- | --- | --- |--- |--- |--- |--- 
 An Frog agus an Luch
---- | --- | --- | --- |--- |--- |--- |--- 
 An Dá Fhrog
---- | --- | --- | --- |--- |--- |--- |--- 
 An León, an Beithir, a’s an Mada Ruadh
---- | --- | --- | --- |--- |--- |--- |--- 
 Geallamhna an Fhir Bhreóite
---- | --- | --- | --- |--- |--- |--- |--- 
 An Capal agus an t-Asal
---- | --- | --- | --- |--- |--- |--- |--- 
 An Cromán agus na Colúra
---- | --- | --- | --- |--- |--- |--- |--- 
 Iupiter agus an Bheach
---- | --- | --- | --- |--- |--- |--- |--- 
 An Ghráinneóg agus na h-Aithreacha Nimhe
---- | --- | --- | --- |--- |--- |--- |--- 
 An Sean Phoc agus an Laogh
---- | --- | --- | --- |--- |--- |--- |--- 
 An León agus an Machtíre agus an Mada Ruadh
---- | --- | --- | --- |--- |--- |--- |--- 
 An Mada Ruadh agus an Machtíre
---- | --- | --- | --- |--- |--- |--- |--- 
 Na Giorfhithe agus na Frogana agus an Ghaoith
---- | --- | --- | --- |--- |--- |--- |--- 
 Bean na Circe
---- | --- | --- | --- |--- |--- |--- |--- 
 An Áinle agus na h-Éin Eile
---- | --- | --- | --- |--- |--- |--- |--- 
 An Sgiathán Leathair agus an Eas
---- | --- | --- | --- |--- |--- |--- |--- 
 An Príochán agus an Chaora
---- | --- | --- | --- |--- |--- |--- |--- 
 An Sean Duine agus an Bás
---- | --- | --- | --- |--- |--- |--- |--- 
 An Corcán agus an Crúsca
---- | --- | --- | --- |--- |--- |--- |--- 
 An tSaint agus an Formad
---- | --- | --- | --- |--- |--- |--- |--- 
 Fuar agus Teith
---- | --- | --- | --- |--- |--- |--- |--- 
 An Cat agus an t-Óigfhear
---- | --- | --- | --- |--- |--- |--- |--- 
 An t-Úcaire agus an Gualadóir
---- | --- | --- | --- |--- |--- |--- |--- 
 An Gadhar agus an Machtíre
---- | --- | --- | --- |--- |--- |--- |--- 
-An Capal agus an Fiadh
---- | --- | --- | --- |--- |--- |--- |--- 
-An t-Iasgaire agus an Ceól
---- | --- | --- | --- |--- |--- |--- |--- 
-Cogar an Bheithir
---- | --- | --- | --- |--- |--- |--- |--- 
+An Capal agus an Fiadh 
+An t-Iasgaire agus an Ceól 
+Cogar an Bheithir 
 An Mada Ruadh Maol
---- | --- | --- | --- |--- |--- |--- |--- 
 Ciall Cheanaig
---- | --- | --- | --- |--- |--- |--- |--- 
 An Príochán agus an Crúsca
 An Sliabh i dTeinneas
 An Dórnán Slat
