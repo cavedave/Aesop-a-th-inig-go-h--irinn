@@ -7,5 +7,5 @@ Take the translation of Aesiop's Fables to Irish and convert it to modern orthog
 ## Tasks
 
 Story | Have Text | Orthography | Spelling | Words | Audio | English | Words checked 
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+--- | --- | --- | --- |--- |--- |--- |--- 
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 
