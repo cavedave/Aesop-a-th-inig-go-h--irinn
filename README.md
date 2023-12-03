@@ -108,9 +108,6 @@ An Mada Ruadh Maol
 Ciall Cheanaig
 --- | --- | --- | --- |--- |--- |--- |--- 
 An Príochán agus an Crúsca
-
 An Sliabh i dTeinneas
-
 An Dórnán Slat
-
 An tSeilg
