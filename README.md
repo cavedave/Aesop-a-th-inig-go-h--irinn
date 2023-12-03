@@ -9,7 +9,6 @@ Take Peadar Ua Laoghaire translation of Aesiop's Fables to Irish and convert it 
 
 [Audio for 8 stories](https://corkirish.wordpress.com/audio-files-on-this-site/)
 [Youtube of more stories](https://www.youtube.com/watch?v=zyi70tG68UM&t=1s) by John Farrell
-[Duck Duck Go](https://duckduckgo.com)
 ## Tasks
 
 Story | Have Text | Orthography | Spelling | Words | Audio | English | Words checked 
