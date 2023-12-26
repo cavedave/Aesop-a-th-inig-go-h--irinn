@@ -65,29 +65,46 @@ An Dórnán Slat
 An tSeilg
 
 ## Conversion code
-In old Irish before An Caighdeán Oifigiúil had an overdot. that in modern usage adds a h after the letter. 
+In old Irish before An Caighdeán Oifigiúil had an overdot. that in modern usage adds a lentition h after the letter. 
 
 Ḃḃ Ċċ Ḋḋ Ḟḟ Ġġ Ṁṁ Ṗṗ Ṡṡ Ṫṫ
 
 test_str = """Ḃḃ Ċċ Ḋḋ Ḟḟ Ġġ Ṁṁ Ṗṗ Ṡṡ Ṫṫ Put actual string in here"""
 
 test_str =test_str.replace("Ḃ","Bh")
+
 test_str =test_str.replace("ḃ","bh")
+
 test_str =test_str.replace("Ċ","Ch")
+
 test_str =test_str.replace("ċ","ch")
+
 test_str =test_str.replace("Ḋ","Dh")
+
 test_str =test_str.replace("ḋ","dh")
+
 test_str =test_str.replace("Ḟ","Fh")
+
 test_str =test_str.replace("ḟ","fh")
+
 test_str =test_str.replace("Ġ","Gh")
+
 test_str =test_str.replace("ġ","gh")
+
 test_str =test_str.replace("Ṁ","Mh")
+
 test_str =test_str.replace("ṁ","mh")
+
 test_str =test_str.replace("Ṗ","Ph")
+
 test_str =test_str.replace("ṗ","ph")
+
 test_str =test_str.replace("Ṡ","Sh")
+
 test_str =test_str.replace("ṡ","sh")
+
 test_str =test_str.replace("Ṫ","Th")
+
 test_str =test_str.replace("ṫ","th")
 
 print(test_str)
