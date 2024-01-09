@@ -8,12 +8,30 @@ By The Rev. Peter O'Leary, P. P.
 
 ![Front Cover](cover.png)
 
+AESOP
+
+A ṪÁINIG GO H-ÉIRINN.
+
+Cuid I.
+
+Gréagach dob’ eaḋ Aesop. Rugadh é tímpal sé cheud bliadhain roimh Chríost. Daor dob’ eadh é. Do mhair sé le línn Sólóin, an t-ollamh dlíghe ba mhó d’á raibh ar Ghreugaibh. D’ínseadh sé na Fabhail mar sholuídí, chum cómhairle a leasa thabhairt do ríghthibh agus do chómhachtaibh na h-aimsire sin. Táid na Fabhail cheudna d’á n-ínsint ó shoin anuas i dteangthachaibh agus i n-urlabhraibh an domhain. Táthar ’ghá n-ínsint anois anso i nGaoluing bhreaġ bhlasta bhínn.
 
 
 
-[ch1.html](chapters/ch1.html)
+
+[An Frog agus an Mada Rua](chapters/ch1.html)
 
 [AN COILEACH AGUS AN MADA RUADH](chapters/ch2.html)
+
+[An Giorfhiadh agus an Gealún](chapters/ch3.html)
+
+[An Ḟuiseóg agus a h-Ál](chapters/ch4.html)
+
+[An t-Asal agus an Bia](chapters/ch5.html)
+
+[Na Machtírí agus na Caoíre](chapters/ch6.html)
+
+[An León agus na Cheithre Tairbh](chapters/ch7.html)
 
 ## Aim
 Take Peadar Ua Laoghaire translation of Aesiop's Fables to Irish and convert it to modern orthography. Modern spelling. Modern word usage where needed. Create Audio Files of it. And have similar English translation for it as well. 
@@ -29,11 +47,11 @@ Story | Have Text | Orthography | Spelling | Words | Audio | English | Words che
 --- | --- | --- | --- |--- |--- |--- |--- 
 An Frog agus an Mada Rua | Y | N | N | N | N | N | N 
 An Coileach agus an Mada Rua | Y | N | N | N | N | N | N  
-An Giorfhiadh agus an Gealún
-An Ḟuiseóg agus a h-Ál
-An t-Asal agus an Bia
-Na Machtírí agus na Caoíre 
-An León agus na Cheithre Tairbh
+An Giorfhiadh agus an Gealún | Y | N | N | N | N | N | N 
+An Ḟuiseóg agus a h-Ál | Y | N | N | N | N | N | N 
+An t-Asal agus an Bia | Y | N | N | N | N | N | N 
+Na Machtírí agus na Caoíre  | Y | N | N | N | N | N | N 
+An León agus na Cheithre Tairbh | N | N | N | N | N | N | N 
 Na Frogana a’ Lorg Rígh
 An Mac agus a Mháthair
 An Mada Ruadh sa Tobar
@@ -79,46 +97,4 @@ An Dórnán Slat
 An tSeilg
 
 ## Conversion code
-In old Irish before An Caighdeán Oifigiúil had an overdot. that in modern usage adds a lentition h after the letter. 
-
-Ḃḃ Ċċ Ḋḋ Ḟḟ Ġġ Ṁṁ Ṗṗ Ṡṡ Ṫṫ
-
-test_str = """Ḃḃ Ċċ Ḋḋ Ḟḟ Ġġ Ṁṁ Ṗṗ Ṡṡ Ṫṫ Put actual string in here"""
-
-test_str =test_str.replace("Ḃ","Bh")
-
-test_str =test_str.replace("ḃ","bh")
-
-test_str =test_str.replace("Ċ","Ch")
-
-test_str =test_str.replace("ċ","ch")
-
-test_str =test_str.replace("Ḋ","Dh")
-
-test_str =test_str.replace("ḋ","dh")
-
-test_str =test_str.replace("Ḟ","Fh")
-
-test_str =test_str.replace("ḟ","fh")
-
-test_str =test_str.replace("Ġ","Gh")
-
-test_str =test_str.replace("ġ","gh")
-
-test_str =test_str.replace("Ṁ","Mh")
-
-test_str =test_str.replace("ṁ","mh")
-
-test_str =test_str.replace("Ṗ","Ph")
-
-test_str =test_str.replace("ṗ","ph")
-
-test_str =test_str.replace("Ṡ","Sh")
-
-test_str =test_str.replace("ṡ","sh")
-
-test_str =test_str.replace("Ṫ","Th")
-
-test_str =test_str.replace("ṫ","th")
-
-print(test_str)
+[Convertion Code](convert.py)
