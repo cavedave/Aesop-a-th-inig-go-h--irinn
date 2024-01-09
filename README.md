@@ -14,7 +14,7 @@ Take Peadar Ua Laoghaire translation of Aesiop's Fables to Irish and convert it 
 Story | Have Text | Orthography | Spelling | Words | Audio | English | Words checked 
 --- | --- | --- | --- |--- |--- |--- |--- 
 An Frog agus an Mada Rua | Y | N | N | N | N | N | N 
-An Coileach agus an Mada Rua 
+An Coileach agus an Mada Rua | Y | N | N | N | N | N | N  
 An Giorfhiadh agus an Gealún
 An Ḟuiseóg agus a h-Ál
 An t-Asal agus an Bia
