@@ -19,7 +19,7 @@ Gréagach dob’ eaḋ Aesop. Rugadh é tímpal sé cheud bliadhain roimh Chrío
 
 
 
-[An Frog agus an Mada Rua](chapters/ch1.html)
+[1. — AN FROG AGUS AN MADRA RUA](chapters/ch1.html)
 
 [AN COILEACH AGUS AN MADA RUADH](chapters/ch2.html)
 
